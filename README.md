@@ -1,7 +1,3 @@
-It looks like you are using Streamlit and a generative AI model from the google.generativeai library to create a Student Career Counselor Chatbot. To create a README for your project, you might want to provide information on how to set up and run the application, as well as any other relevant details. Here's a template you can use as a starting point:
-
----
-
 # Student Career Counselor Chatbot
 
 This project is a Streamlit-based application that utilizes a generative AI model to simulate a Student Career Counselor chatbot. Users can interact with the chatbot by entering messages, and the bot responds accordingly.
@@ -9,10 +5,10 @@ This project is a Streamlit-based application that utilizes a generative AI mode
 ## Setup
 
 1. *Install Dependencies:*
-   bash
+   ```bash
    pip install streamlit
-   pip install google.generativeai  # Make sure to use the correct package name
-   
+   pip install google.generativeai  
+   ```
 
 2. *Configure API Key:*
    Obtain an API key from the Google Generative AI service and set it in the code:
@@ -21,9 +17,9 @@ This project is a Streamlit-based application that utilizes a generative AI mode
    
 
 3. *Run the Application:*
-   bash
+   ```bash
    streamlit run AI-Cousellor.py
-   
+   ```
 
   
 
@@ -37,7 +33,7 @@ This project is a Streamlit-based application that utilizes a generative AI mode
 
 ## Project Structure
 
--AI-Councellor.py: The main script containing the Streamlit application code.
+- AI-Councellor.py: The main script containing the Streamlit application code.
 - requirements.txt: A file listing the project dependencies.
 
 ## Notes
@@ -47,5 +43,5 @@ This project is a Streamlit-based application that utilizes a generative AI mode
 
 ## References
 
-- Streamlit Documentation: [Link](https://docs.streamlit.io/)
-- Google Generative AI Documentation: [Link](https://generativeai.dev/docs/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Google Generative AI Documentation](https://generativeai.dev/docs/)
