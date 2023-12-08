@@ -45,3 +45,8 @@ This project is a Streamlit-based application that utilizes a generative AI mode
 
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Google Generative AI Documentation](https://generativeai.dev/docs/)
+
+## Contributors
+<a href="https://github.com/alokverma18/ai-counselor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alokverma18/ai-counselor" />
+</a>
